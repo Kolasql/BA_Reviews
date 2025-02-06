@@ -49,19 +49,14 @@ In this project, I analyzed customer reviews of British Airways using NLP techni
 ## 📈 Key Insights
 - *Common Complaints:* Frequent issues included *flight delays, lost baggage, and poor in-flight service*.
 
-## 📸 Visualizations
-![Sentiment Distribution](images/sentiment_distribution.png)
-![Word Cloud](images/word_cloud.png)
-
 ## 🎯 Business Implications
 - *Enhancing Customer Experience:* Address key complaints to improve satisfaction.
 - *Customer Service Training:* Invest in training to mitigate negative experiences.
 - *Operational Improvements:* Optimize baggage handling and reduce flight delays.
 
 ## 🔗 Project Links
-- *GitHub Repository:* [Your GitHub Repo](#)
-- *Portfolio:* [Your Portfolio Link](#)
-- *Dataset (if public):* [Dataset Link](#)
+- *GitHub Repository:* [Gi Hub repo](https://github.com/Kolasql/BA_Reviews)
+- *Portfolio:* [My Portfolio](https://www.datascienceportfol.io/Kolawole_Adesh)
 
 ## 📌 How to Run the Project
 1. Clone this repository:

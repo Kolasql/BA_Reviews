@@ -61,7 +61,7 @@ In this project, I analyzed customer reviews of British Airways using NLP techni
 ## 📌 How to Run the Project
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/british-airways-nlp.git
+   git clone [https://github.com/yourusername/british-airways-nlp.git](https://github.com/Kolasql/BA_Reviews)
    
 2. Install dependencies:
    bash
